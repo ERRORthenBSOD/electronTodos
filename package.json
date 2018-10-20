@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "electron": "^3.0.5"
+  },
+  "scripts": {
+    "el": "electron ."
+  },
+  "name": "electronToDo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Atmospheric_b-10 <atmobsod@gmail.com>",
+  "license": "MIT"
+}
